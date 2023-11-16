@@ -23,10 +23,5 @@ You will need, for the bruteforces, to follow the instructions bellow to have th
 - then copy the xpath of the fill to bruteforce
 - press enter, then the program will start, enjoy!
 
-# Our Discord Server
-================================================================
-
-https://discord.gg/2dNwd6YeWJ
-
 
 # Digital Nexus
