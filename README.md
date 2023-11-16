@@ -24,4 +24,4 @@ You will need, for the bruteforces, to follow the instructions bellow to have th
 - press enter, then the program will start, enjoy!
 
 
-# Digital Nexus
+# Club Info SVP
